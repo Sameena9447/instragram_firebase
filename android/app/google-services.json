@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363399310715",
+    "project_id": "clone-cf0c8",
+    "storage_bucket": "clone-cf0c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363399310715:android:f219d453378f2f740121de",
+        "android_client_info": {
+          "package_name": "com.example.instragram_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363399310715-fdid9hq6cbmgjo147ls0rn85r32b0u1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOUTYZvL-HpcjkhhY3TAMMTorJOwDzjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363399310715-fdid9hq6cbmgjo147ls0rn85r32b0u1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
